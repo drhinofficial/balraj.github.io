@@ -1,6 +1,14 @@
 # Hi 👋, I'm Balraj Singh
 
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="600" height="300"/>
+</div>
+
 ## Python Developer | Tech Enthusiast | System Administrator | Passionate Gamer
+
+<div align="center">
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="600" height="300"/>
+</div>
 
 🌱 I'm currently working in **Python Backend Development** at Fealty Technologies
 
@@ -13,6 +21,10 @@ I'm a versatile developer with a strong foundation in Python programming and web
 As a tech enthusiast, I'm always exploring new technologies and methodologies. I enjoy diving deep into system administration, network configurations, and cloud technologies. My curiosity drives me to understand the intricacies of both software and hardware, from low-level system operations to high-level application architecture.
 
 Outside of work, I'm an avid Dota 2 player. My gaming passion has led me to contribute to the Dota 2 community by actively participating in bug finding and reporting, helping to improve the game experience for millions of players worldwide.
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="600" height="300"/>
+</div>
 
 - 🔭 I'm currently working on mining monitoring and warehouse management systems
 - 🌱 I'm constantly learning and improving my skills in Python, FastAPI, and cloud technologies
@@ -51,8 +63,13 @@ Outside of work, I'm an avid Dota 2 player. My gaming passion has led me to cont
 
 - **Mining Monitoring System:** A web application for invoice processing and data management
 - **Warehouse Monitoring System:** Stock management and invoice generation application
+- **Insurance Claim and Accessor Platform:** Developed for Afritech, this app streamlines the insurance claim process and facilitates accessor assignments
 - **Personal Safety App (JUVO):** Android application developed using Python and Android Studio
 - **Home Alert and Notification System:** IoT-based system using Raspberry Pi and cloud services
+
+<div align="center">
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="200" height="200"/>
+</div>
 
 ### Education
 
