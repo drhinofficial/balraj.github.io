@@ -1,9 +1,5 @@
 # Hi 👋, I'm Balraj Singh
 
-<div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="600" height="300"/>
-</div>
-
 ## Python Developer | Tech Enthusiast | System Administrator | Passionate Gamer
 
 <div align="center">
